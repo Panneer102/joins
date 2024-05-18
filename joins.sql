@@ -17,7 +17,7 @@ CREATE TABLE Department (
 INSERT INTO Department VALUES(1,'Panneer','16, vallalar Road, Trichy');
 INSERT INTO Department VALUES(2,'Selvam','16/80, 15th Block, Rainbow Apartment, Chennai');
 INSERT INTO Department VALUES(3,'Seetha','161, 1st floor OMR Road, Chennai');
-INSERT INTO Department VALUES(4,'Murugan','32 villianur, pondicherry');
+INSERT INTO Department VALUES(4,'Murugan','32 villianur, pondicherry'); 
 
 
 -- SELECT TABLE Department;
